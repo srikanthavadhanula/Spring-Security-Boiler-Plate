@@ -21,8 +21,12 @@ This Repository has all the boilerplate code for Spring Security
 
 ## JWT Verification Steps
 
+> Since authenticate is permitted, we can use that to fetch the token
+
 ![Authentication](/images/authenticate.png)
 
+
+> Use the token from the previous call and use that in the REST API calls
 
 ![Get](/images/get.png)
 
