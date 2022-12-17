@@ -19,3 +19,10 @@ This Repository has all the boilerplate code for Spring Security
 - Rest of the HttpRequests are added for authentication in filter chain
 - You can find JWT configuration in JwtSecurityConfiguration
 
+## JWT Verification Steps
+
+![Authentication](/images/authenticate.png)
+
+
+![Get](/images/get.png)
+
