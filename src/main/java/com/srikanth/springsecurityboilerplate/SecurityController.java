@@ -9,7 +9,7 @@ public class SecurityController {
 
     @GetMapping("/get")
     public String getAccess() {
-        return "you-got-it-covered-with-SS";
+        return "you-got-it-covered-with-SpringSecurity";
     }
 
     @PostMapping("/set")

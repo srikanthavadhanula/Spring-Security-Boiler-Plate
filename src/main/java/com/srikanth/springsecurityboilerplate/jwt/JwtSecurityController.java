@@ -1,4 +1,4 @@
-package com.srikanth.springsecurityboilerplate;
+package com.srikanth.springsecurityboilerplate.jwt;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.oauth2.jwt.JwtClaimsSet;
